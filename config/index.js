@@ -33,9 +33,9 @@ export const config = {
       // 想要发送的人的名字
       name: "铃",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oD34-5gACnwRYPl6ZAYKQPkrWjn8",
+      id: "oD34-5rNFCyi8tDu0gaJnP1p_c9w",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "wmuUn3uYtB17sAORzRhD32GMHHwTqCYug9OUbJpfn0I",
+      useTemplateId: "rdNQgOk2ZE2x65nOFoUPoAf_ScAaFMphLypBojVZV7Q",
       // 所在省份
       province: "广东",
       // 所在城市
@@ -68,7 +68,7 @@ export const config = {
     {
       name: "yyp",
       id: "oD34-5sj7UMOfFjTRBMaYUAWZ1Pg",
-      useTemplateId: "wmuUn3uYtB17sAORzRhD32GMHHwTqCYug9OUbJpfn0I",
+      useTemplateId: "rdNQgOk2ZE2x65nOFoUPoAf_ScAaFMphLypBojVZV7Q",
       province: "广东",
       city: "广州",
       horoscopeDate: '03-25',
