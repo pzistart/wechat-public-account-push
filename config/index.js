@@ -84,7 +84,7 @@ export const config = {
       ],
             customizedDateList: [
         // 在一起的日子
-        {"keyword": "love_day", date: "2020-12-24"},
+        {"keyword": "love_day", date: "2020-12-25"},
         // 
         {"keyword": "yidi", date: "2022-8-28"},
         // 退伍日
