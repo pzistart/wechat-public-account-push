@@ -60,7 +60,7 @@ export const config = {
         // 在一起的日子
         {"keyword": "love_day", date: "2020-12-25"},
         // 
-        {"keyword": "yidi", date: "2022-8-28"},
+        {"keyword": "yidi", date: "2022-8-30"},
         // 退伍日
 //         {"keyword": "ex_day", date: "2022-09-10"},
       ]
