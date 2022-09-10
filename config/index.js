@@ -33,9 +33,9 @@ export const config = {
       // 想要发送的人的名字
       name: "铃",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oD34-5sj7UMOfFjTRBMaYUAWZ1Pg",
+      id: "oD34-5gACnwRYPl6ZAYKQPkrWjn8",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "opD8wMTLAqBjPu7NvpRXSH_tMN1jYuKrMUkLw83C99E",
+      useTemplateId: "_n6FImq8JMIub6Rzy8o9cstIBh3NJq_sD_cmo9dqM68",
       // 所在省份
       province: "广东",
       // 所在城市
@@ -65,18 +65,32 @@ export const config = {
 //         {"keyword": "ex_day", date: "2022-09-10"},
       ]
     },
-//     {
-//       name: "老婆1",
-//       id: "",
-//       useTemplateId: "",
-//       province: "",
-//       city: "",
-//       horoscopeDate: '',
-//       horoscopeDateType: '',
-//       openUrl: "https://wangxinleo.cn",
-//       festivals: [],
-//       customizedDateList: []
-//     },
+    {
+      name: "yyp",
+      id: "oD34-5sj7UMOfFjTRBMaYUAWZ1Pg",
+      useTemplateId: "",
+      province: "广东",
+      city: "工作",
+      horoscopeDate: '03-25',
+      horoscopeDateType: '今日',
+      openUrl: "",
+            festivals: [
+        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+        {"type": "*生日", "name": "老婆", "year": "2000", "date": "02-20"},
+//         {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
+        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
+//         {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
+//         {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+      ],
+            customizedDateList: [
+        // 在一起的日子
+        {"keyword": "love_day", date: "2020-12-24"},
+        // 
+        {"keyword": "yidi", date: "2022-8-28"},
+        // 退伍日
+//         {"keyword": "ex_day", date: "2022-09-10"},
+      ]
+    },
 //     {
 //       name: "老婆2",
 //       id: "",
